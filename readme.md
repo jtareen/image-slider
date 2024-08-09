@@ -9,7 +9,7 @@ This repository contains a simple, responsive image slider built with HTML, and 
 
 ## Demo
 
-Check out the live demo: [Demo Link](#)
+Check out the live demo: [Demo Link]([#](https://jtareen.github.io/image-slider/))
 
 ## Installation
 
